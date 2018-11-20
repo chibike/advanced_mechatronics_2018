@@ -1,0 +1,17 @@
+
+
+Testing the tensile strength of the Brake Cable
+
+The tensile strength of the brake cable was tested by pulling across its ends. During the test, the cable was subjected to forces above 1000N (1013 N), for a couple of minutes (>2 minutes) and after a brief visual scrutiny except for a few scratches, there was no measurable extension in the brake cable.
+
+
+
+Testing the compression strength of the Brake Cable housing
+
+The compression strength of the brake cable was tested by pulling a brake cable through the housing having been secured to the brake cable at one of its ends. The other end of the housing was attached to clamp which allows the brake cable to go through.
+
+During the test, the following was observed:
+
+1. The housing showed visible compressions, at forces > 280 N
+2. The housing showed signs of strain, at forces > 400 N
+3. The housing tore at 810 N
